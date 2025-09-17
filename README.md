@@ -1,2 +1,2 @@
-# Kubernetes-hindi-bootcamp
-The repo is for Kubernetes Hindi bootcamp
+# Kubernetes-Bootcamp
+The repo is for Kubernetes bootcamp
